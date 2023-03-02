@@ -10,7 +10,7 @@ INTEGRANTES:
 
 ### Objetivo General
 
-Crear un circuito con un integrado LM386 de amplifiación de audio e identificar los elementos empleados para su creación y cual el la función que cumple cada uno de ellos.
+Crear un circuito con un integrado LM386 de amplifiación de audio e identificar los elementos empleados para su creación y cual es la función que cumple cada uno de ellos.
    
 ### Objetivos específicos.
 
