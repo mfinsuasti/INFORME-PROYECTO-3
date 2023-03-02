@@ -34,7 +34,7 @@ Este amplificador cuenta con soporte para cargas de 4 a 32 Ω,
 
 ## VIDEO
 
-https://youtu.be/ZkS0R82dVL0
+https://www.youtube.com/watch?v=rKK8GcGYoNY
 
 ## CONCLUSIONES
 
